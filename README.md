@@ -1,2 +1,2 @@
 #Heaader 1
-This is aome text
+This is some text
